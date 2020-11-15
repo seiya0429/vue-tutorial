@@ -32,5 +32,10 @@ export default {
     },
     ...mapState(["globalCount"])
   }
+
+
+
+
+  
 }
 </script>
